@@ -2,4 +2,4 @@
 using System.Net.WebSockets;
 
 Console.WriteLine("Hello, World!");
-System.Console.WriteLine("");
+System.Console.WriteLine("привет");
