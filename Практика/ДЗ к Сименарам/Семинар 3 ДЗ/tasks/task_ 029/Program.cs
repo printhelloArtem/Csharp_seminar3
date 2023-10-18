@@ -19,16 +19,18 @@ int[] GetArray(int start, int end, int size)
 
 void PrintArray(int[] arr)
 {
-System.Console.ForegroundColor = ConsoleColor.Cyan;
+    System.Console.ForegroundColor = ConsoleColor.Cyan;
     System.Console.Write("[");
     Console.ResetColor();
     for (int i = 0; i < arr.Length; i++)
 
     {
-System.Console.ForegroundColor = ConsoleColor.DarkMagenta;
+        System.Console.ForegroundColor = ConsoleColor.DarkMagenta;
+        Thread.Sleep(80);
+
         System.Console.Write(arr[i]);
         if (i < arr.Length - 1)
-        System.Console.Write(", ");//[5, 7, 1, 4]
+            System.Console.Write(", ");//[5, 7, 1, 4]
     }
     System.Console.ForegroundColor = ConsoleColor.Cyan;
     System.Console.Write("]");
