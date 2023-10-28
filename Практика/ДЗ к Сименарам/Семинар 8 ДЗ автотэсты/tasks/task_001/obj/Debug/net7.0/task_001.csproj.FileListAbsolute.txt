@@ -1,0 +1,14 @@
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\bin\Debug\net7.0\task_001.exe
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\bin\Debug\net7.0\task_001.deps.json
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\bin\Debug\net7.0\task_001.runtimeconfig.json
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\bin\Debug\net7.0\task_001.dll
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\bin\Debug\net7.0\task_001.pdb
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\obj\Debug\net7.0\task_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\obj\Debug\net7.0\task_001.AssemblyInfoInputs.cache
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\obj\Debug\net7.0\task_001.AssemblyInfo.cs
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\obj\Debug\net7.0\task_001.csproj.CoreCompileInputs.cache
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\obj\Debug\net7.0\task_001.dll
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\obj\Debug\net7.0\refint\task_001.dll
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\obj\Debug\net7.0\task_001.pdb
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\obj\Debug\net7.0\task_001.genruntimeconfig.cache
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 8 ДЗ автотэсты\tasks\task_001\obj\Debug\net7.0\ref\task_001.dll
