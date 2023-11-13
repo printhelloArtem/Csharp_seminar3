@@ -55,78 +55,78 @@ PrintArray(myArray);
 // 3  -> 11
 // 2  -> 10
 
-int ReadInt(string text)
-{
-    System.Console.Write(text);
-    return Convert.ToInt32(Console.ReadLine());
-}
+// int ReadInt(string text)
+// {
+//     System.Console.Write(text);
+//     return Convert.ToInt32(Console.ReadLine());
+// }
 
-void ShowBinary(int num)
-{
-    if(num == 0) return;
-    ShowBinary(num / 2);
-    System.Console.Write(num%2);
-}
+// void ShowBinary(int num)
+// {
+//     if(num == 0) return;
+//     ShowBinary(num / 2);
+//     System.Console.Write(num%2);
+// }
 
 // --------------------
 
-int number = ReadInt("Введите число: ");
-ShowBinary(number);
-System.Console.WriteLine();
-Console.WriteLine(Convert.ToString(number, 2));
-Console.WriteLine("Введите число:");
- int number = Convert.ToInt32(Console.ReadLine());
-Console.Write("0 1 ");
-int num1 = 0;
-int num2 = 1;
+// int number = ReadInt("Введите число: ");
+// ShowBinary(number);
+// System.Console.WriteLine();
+// Console.WriteLine(Convert.ToString(number, 2));
+// Console.WriteLine("Введите число:");
+//  int number = Convert.ToInt32(Console.ReadLine());
+// Console.Write("0 1 ");
+// int num1 = 0;
+// int num2 = 1;
 
-for (int i = 0; i < number - 2; i++)
-{
-    int res = num1 + num2;
-    Console.Write(res + " ");
-    num1 = num2;
-    num2 = res;
-}
+// for (int i = 0; i < number - 2; i++)
+// {
+//     int res = num1 + num2;
+//     Console.Write(res + " ");
+//     num1 = num2;
+//     num2 = res;
+// }
 
 
-// Задача 45: Напишите программу, которая будет создавать 
-// копию заданного массива с помощью поэлементного копирования.
+// // Задача 45: Напишите программу, которая будет создавать 
+// // копию заданного массива с помощью поэлементного копирования.
 
-int[] GenerateArray(int size, int leftRange, int rightRange)
-{
-    int[] tempArray = new int[size];
-    Random rand = new Random();
+// int[] GenerateArray(int size, int leftRange, int rightRange)
+// {
+//     int[] tempArray = new int[size];
+//     Random rand = new Random();
 
-    for (int i = 0; i < tempArray.Length; i++)
-    {
-        tempArray[i] = rand.Next(leftRange, rightRange + 1); // .Next(-5, 6)
-    }
+//     for (int i = 0; i < tempArray.Length; i++)
+//     {
+//         tempArray[i] = rand.Next(leftRange, rightRange + 1); // .Next(-5, 6)
+//     }
 
-    return tempArray;
-}
+//     return tempArray;
+// }
 
-void PrintArray(int[] array)
-{
-    System.Console.WriteLine("[" + string.Join(", ", array) + "]");
-}
+// void PrintArray(int[] array)
+// {
+//     System.Console.WriteLine("[" + string.Join(", ", array) + "]");
+// }
 
-int[] Copy(int[] oldArray)
-{
-    int[] newArray = new int[oldArray.Length];
+// int[] Copy(int[] oldArray)
+// {
+//     int[] newArray = new int[oldArray.Length];
 
-    for (int i = 0; i < oldArray.Length; i++)
-        newArray[i] = oldArray[i];
+//     for (int i = 0; i < oldArray.Length; i++)
+//         newArray[i] = oldArray[i];
 
-    return newArray;    
-}
+//     return newArray;    
+// }
 
-// -----------------------
-int[] myArray = GenerateArray(10, -5, 5);
-int[] copyArray = Copy(myArray);
-int[] secondCopy = myArray[..];
+// // -----------------------
+// int[] myArray = GenerateArray(10, -5, 5);
+// int[] copyArray = Copy(myArray);
+// int[] secondCopy = myArray[..];
 
-myArray[0] = 100;
+// myArray[0] = 100;
 
-PrintArray(myArray);
-PrintArray(copyArray);
-PrintArray(secondCopy);
+// PrintArray(myArray);
+// PrintArray(copyArray);
+// PrintArray(secondCopy);
