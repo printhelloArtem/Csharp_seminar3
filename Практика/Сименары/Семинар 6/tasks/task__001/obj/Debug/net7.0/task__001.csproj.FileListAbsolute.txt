@@ -1,0 +1,14 @@
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\obj\Debug\net7.0\task__001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\obj\Debug\net7.0\task__001.AssemblyInfoInputs.cache
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\obj\Debug\net7.0\task__001.AssemblyInfo.cs
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\obj\Debug\net7.0\task__001.csproj.CoreCompileInputs.cache
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\bin\Debug\net7.0\task__001.exe
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\bin\Debug\net7.0\task__001.deps.json
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\bin\Debug\net7.0\task__001.runtimeconfig.json
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\bin\Debug\net7.0\task__001.dll
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\bin\Debug\net7.0\task__001.pdb
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\obj\Debug\net7.0\task__001.dll
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\obj\Debug\net7.0\refint\task__001.dll
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\obj\Debug\net7.0\task__001.pdb
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\obj\Debug\net7.0\task__001.genruntimeconfig.cache
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\Сименары\Семинар 6\tasks\task__001\obj\Debug\net7.0\ref\task__001.dll
