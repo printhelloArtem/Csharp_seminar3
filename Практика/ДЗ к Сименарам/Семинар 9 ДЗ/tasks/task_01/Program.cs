@@ -84,3 +84,4 @@ int minSumRowIndex = FindRowWithMinSum(matrix);
 System.Console.WriteLine( $"Строка под индексом - [{minSumRowIndex}]  является с наименьшей суммой элементов" );
 // PrintAr(minSumRowIndex);
 
+
